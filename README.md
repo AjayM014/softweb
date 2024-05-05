@@ -1,4 +1,4 @@
-[# Ex.07 Software Product Company Website
+## Ex.07 Software Product Company Website
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
